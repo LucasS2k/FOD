@@ -1,0 +1,15 @@
+101 250000.00  Samsung
+15 5  Pantalla AMOLED 6.5 pulgadas 128GB
+Galaxy A15
+104 950000.00  Apple
+2 4  iPhone 15 color negro medianoche
+iPhone 15
+105 180000.00  Xiaomi
+20 10  Economico con gran bateria de 5000mAh
+Redmi Note 13
+106 1100000.00  Samsung
+1 2  Pantalla plegable ultima generacion
+Galaxy Z Fold 5
+107 450000.00  Motorola
+8 4  Resistente al agua y carga rapida
+Edge 40 Neo
